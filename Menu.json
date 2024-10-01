@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" Burger",
+        "price": 39.99,
+        "image": "menu burger no bacck.png"
+    },
+    {
+        "id": 2,
+        "name":" IKOTA",
+        "price": 30.99,
+        "image": "menu ikota.png"
+    },
+    {
+        "id": 3,
+        "name":" BEEF LIVER",
+        "price": 30.99,
+        "image": "Menu.png"
+    },
+    {
+        "id": 4,
+        "name":" DRINKS",
+        "price": 15.99,
+        "image": "menu drink.png"
+    },
+    {
+        "id": 5,
+        "name":" HOT DOG",
+        "price": 20.99,
+        "image": "Menu Sausage rolls no back.png"
+    },
+    {
+        "id": 6,
+        "name":" 1/4 LEG CHICKEN",
+        "price": 40.99,
+        "image": "MENU CHIC.png"
+    },
+    {
+        "id": 7,
+        "name":" FRIES",
+        "price": 29.99,
+        "image": "Menu Fries.png"
+    },
+    {
+        "id": 8,
+        "name":" GO-SLO'S BBQ",
+        "price": 7.99,
+        "image": "GoSlow no back.png"
+    }
+
+]
